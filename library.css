@@ -11,3 +11,7 @@ h1 {
   text-align: center;
   color: darkred;
 }
+
+body {
+  background-image: url(https://rawcdn.githack.com/ElionAmamion/pics/20f57b08650e04496f6428d178e22ae56605db8d/night_sky.png);
+}
