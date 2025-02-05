@@ -6,12 +6,16 @@
   src: url(https://fonts.gstatic.com/s/merienda/v19/gNMaW3x8Qoy5_mf8uUkJGHtiYXjmKFy5JHhYTkT9.woff2);
  }
 
+ body {
+  background-image: url(https://rawcdn.githack.com/ElionAmamion/pics/20f57b08650e04496f6428d178e22ae56605db8d/night_sky.png);
+}
+
 h1 {
   font-family: Merienda;
   text-align: center;
   color: darkred;
 }
 
-body {
-  background-image: url(https://rawcdn.githack.com/ElionAmamion/pics/20f57b08650e04496f6428d178e22ae56605db8d/night_sky.png);
+p {
+  color: mistyrose;
 }
