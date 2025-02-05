@@ -19,3 +19,8 @@ h1 {
 p {
   color: mistyrose;
 }
+
+img {
+  border: 10px white;
+  border-radius: 10px;
+}
