@@ -25,3 +25,8 @@ img {
   border-radius: 10px;
   padding: 5px;
 }
+
+hr {
+  background-image: url(https://rawcdn.githack.com/ElionAmamion/pics/8474c97746f69e99977beb4bde525cd320835a06/IMG_1304.png) no-repeat center;
+  border: none;
+}
